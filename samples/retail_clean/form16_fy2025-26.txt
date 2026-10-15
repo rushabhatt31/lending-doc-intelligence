@@ -1,0 +1,8 @@
+FORM NO. 16
+Certificate under section 203 of the Income-tax Act, 1961 for tax deducted at source on salary
+Name and address of the Employer: Acme Technologies Private Limited, Bengaluru
+TAN of the Deductor: BLRA12345C
+PAN of the Employee: ABCPS1234K
+Assessment Year: 2026-27
+Gross Salary: 13,20,000.00
+Total Tax Deducted: 1,74,000.00

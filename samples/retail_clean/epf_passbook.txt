@@ -1,0 +1,9 @@
+Employees' Provident Fund Organisation
+Member Passbook
+UAN: 100234567890
+Member Name: RAHUL SHARMA
+Establishment ID: KNBNG0012345000
+Establishment Name: ACME TECHNOLOGIES PRIVATE LIMITED
+Wage Month   Employee Share   Employer Share
+Aug-2026     6,900            2,108
+Sep-2026     6,900            2,108

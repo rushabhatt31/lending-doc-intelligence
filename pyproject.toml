@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lending-doc-intelligence"
+version = "0.1.0"
+description = "Agentic document intelligence for loan origination: KYC, bank statements, income, GST, financials, fraud, pendency and audit."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+  "pydantic>=2.6", "fastapi>=0.110", "uvicorn>=0.29", "python-multipart>=0.0.9",
+  "pdfplumber>=0.11", "pillow>=10.0",
+]
+
+[project.optional-dependencies]
+llm = ["anthropic>=0.40"]
+ocr = ["pytesseract>=0.3"]
+dev = ["pytest>=8", "httpx>=0.27", "reportlab>=4"]
+
+[project.scripts]
+docintel = "docintel.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["docintel*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

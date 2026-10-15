@@ -1,0 +1,185 @@
+{
+  "gstin": "29AAHFG1234Q1Z0",
+  "legal_name": "GANESH AUTO COMPONENTS",
+  "sector": "auto_components",
+  "gstr1": [
+    {
+      "period": "2025-10",
+      "taxable_value": 3584000.0,
+      "tax": 645120.0,
+      "filed_on": "2025-11-10"
+    },
+    {
+      "period": "2025-11",
+      "taxable_value": 3728000.0,
+      "tax": 671040.0,
+      "filed_on": "2025-12-10"
+    },
+    {
+      "period": "2025-12",
+      "taxable_value": 3692000.0,
+      "tax": 664560.0,
+      "filed_on": "2026-01-10"
+    },
+    {
+      "period": "2026-01",
+      "taxable_value": 4024000.0,
+      "tax": 724320.0,
+      "filed_on": "2026-02-10"
+    },
+    {
+      "period": "2026-02",
+      "taxable_value": 4013000.0,
+      "tax": 722340.0,
+      "filed_on": "2026-03-10"
+    },
+    {
+      "period": "2026-03",
+      "taxable_value": 3746000.0,
+      "tax": 674280.0,
+      "filed_on": "2026-04-18"
+    },
+    {
+      "period": "2026-04",
+      "taxable_value": 3882000.0,
+      "tax": 698760.0,
+      "filed_on": "2026-05-10"
+    },
+    {
+      "period": "2026-05",
+      "taxable_value": 4071000.0,
+      "tax": 732780.0,
+      "filed_on": "2026-06-10"
+    },
+    {
+      "period": "2026-06",
+      "taxable_value": 4222000.0,
+      "tax": 759960.0,
+      "filed_on": "2026-07-10"
+    },
+    {
+      "period": "2026-07",
+      "taxable_value": 4179000.0,
+      "tax": 752220.0,
+      "filed_on": "2026-08-10"
+    },
+    {
+      "period": "2026-08",
+      "taxable_value": 4456000.0,
+      "tax": 802080.0,
+      "filed_on": "2026-09-10"
+    },
+    {
+      "period": "2026-09",
+      "taxable_value": 4125000.0,
+      "tax": 742500.0,
+      "filed_on": "2026-10-10"
+    }
+  ],
+  "gstr3b": [
+    {
+      "period": "2025-10",
+      "taxable_value": 3536572.51,
+      "tax_liability": 636583.05,
+      "itc_claimed": 496534.78,
+      "filed_on": "2025-11-19"
+    },
+    {
+      "period": "2025-11",
+      "taxable_value": 3717717.79,
+      "tax_liability": 669189.2,
+      "itc_claimed": 521967.58,
+      "filed_on": "2025-12-19"
+    },
+    {
+      "period": "2025-12",
+      "taxable_value": 3668829.02,
+      "tax_liability": 660389.22,
+      "itc_claimed": 515103.59,
+      "filed_on": "2026-01-19"
+    },
+    {
+      "period": "2026-01",
+      "taxable_value": 3986117.92,
+      "tax_liability": 717501.22,
+      "itc_claimed": 559650.96,
+      "filed_on": "2026-02-19"
+    },
+    {
+      "period": "2026-02",
+      "taxable_value": 3370920.0,
+      "tax_liability": 606765.6,
+      "itc_claimed": 473277.17,
+      "filed_on": "2026-03-19"
+    },
+    {
+      "period": "2026-03",
+      "taxable_value": 3693158.99,
+      "tax_liability": 664768.62,
+      "itc_claimed": 518519.52,
+      "filed_on": "2026-04-19"
+    },
+    {
+      "period": "2026-04",
+      "taxable_value": 3863389.69,
+      "tax_liability": 695410.14,
+      "itc_claimed": 542419.91,
+      "filed_on": "2026-05-19"
+    },
+    {
+      "period": "2026-05",
+      "taxable_value": 4029118.4,
+      "tax_liability": 725241.31,
+      "itc_claimed": 565688.22,
+      "filed_on": "2026-06-19"
+    },
+    {
+      "period": "2026-06",
+      "taxable_value": 3546480.0,
+      "tax_liability": 638366.4,
+      "itc_claimed": 497925.79,
+      "filed_on": "2026-07-19"
+    },
+    {
+      "period": "2026-07",
+      "taxable_value": 4135105.89,
+      "tax_liability": 744319.06,
+      "itc_claimed": 580568.87,
+      "filed_on": "2026-08-19"
+    },
+    {
+      "period": "2026-08",
+      "taxable_value": 4435880.79,
+      "tax_liability": 798458.54,
+      "itc_claimed": 622797.66,
+      "filed_on": "2026-09-19"
+    },
+    {
+      "period": "2026-09",
+      "taxable_value": 4098667.47,
+      "tax_liability": 737760.14,
+      "itc_claimed": 575452.91,
+      "filed_on": "2026-10-19"
+    }
+  ],
+  "top_buyers": [
+    {
+      "name": "Anchor OEM Motors Ltd",
+      "gstin": "29AABCA1111A1Z5",
+      "share_pct": 48,
+      "sector": "auto_components"
+    },
+    {
+      "name": "Delta Tractors Pvt Ltd",
+      "gstin": "33AABCD2222B1Z1",
+      "share_pct": 21,
+      "sector": "manufacturing"
+    },
+    {
+      "name": "Metro Spares Trading",
+      "gstin": "29AAFFM3333C1Z2",
+      "share_pct": 9,
+      "sector": "trading"
+    }
+  ]
+}

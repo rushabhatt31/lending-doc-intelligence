@@ -1,0 +1,12 @@
+PAYSLIP
+Company: Acme Technologies Pvt Ltd
+Pay Period: September 2026
+Employee Name: Rahul Sharma
+Employee ID: ACM-20417        PAN: ABCPS1234K
+Earnings                         Deductions
+Basic          57,500            Provident Fund   6,900
+HRA            28,750            Professional Tax   200
+Special Allow  28,750            Income Tax      15,500
+Gross Earnings: 1,15,000.00
+Total Deductions: 22,600.00
+Net Pay: 92,400.00
