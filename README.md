@@ -4,6 +4,8 @@
 
 The system **recommends**; a credit officer **decides**.
 
+![Demo: three loan applications processed end to end](docs/demo.gif)
+
 ```
 $ python -m docintel.cli demo
 
@@ -135,6 +137,7 @@ docintel/
   llm.py                  optional Claude layer
   api.py · cli.py
 samples/                  synthetic test cases (python samples/generate.py)
+docs/                     demo GIF + its generator (python docs/make_demo_gif.py)
 tests/                    24 tests
 ```
 
